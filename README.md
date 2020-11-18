@@ -1,2 +1,2 @@
 # hello-world
-Mi primer repositorio desde casa
+Mi primer repositorio desde casa y ahora desde clase
